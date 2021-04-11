@@ -1,7 +1,7 @@
 # STATISTICS
 Statistical main laws (illustrations)/ main statistical tests.
 
-NO CLEAN CODE. in french, for personnal purposes => ////////DO NOT READ//////////////
+NO CLEAN CODE YET . in french, for personnal purposes => ////////DO NOT READ//////////////
 
 
 
