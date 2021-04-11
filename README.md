@@ -1,11 +1,9 @@
 # STATISTICS
-personnal notes. Statistical main laws (illustrations)/ main statistical tests.
+Statistical main laws (illustrations)/ main statistical tests.
 
-NO CLEAN CODE.
+NO CLEAN CODE. in french, for personnal purposes => ////////DO NOT READ//////////////
 
-DO NOT READ
 
-for personnal purposes
 
 I/ one sample statistical tests :
 - shapiro normality test
