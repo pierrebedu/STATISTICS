@@ -1,7 +1,8 @@
 # STATISTICS
 personnal notes. Statistical main laws (illustrations)/ main statistical tests.
 
-NO CLEAN CODE
+NO CLEAN CODE.
+
 DO NOT READ
 
 for personnal purposes
