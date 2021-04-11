@@ -25,3 +25,5 @@ b) Independant samples
 - wilcoxon rank test (not paired) Px=Py                                      ( asymptotical N(0;1) law)
 
 - kolmogorov-smirnov ecdfs' comparison
+
+III/ Xhi2 independancy test on a contingency table (2 qualitative variables)   (Xhi2 law)
